@@ -1,6 +1,30 @@
- # Speech Recognition Project
+# Speech Recognition Project
 
-A comprehensive speech recognition project with multiple implementations, ranging from basic audio processing to advanced speech-to-text conversion.
+A comprehensive speech recognition project with multiple implementations, ranging from basic audio processing to advanced speech-to-text conversion and sentiment analysis.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Tamanna5/speech_recognition.git)
+
+## Project Overview
+
+This repository contains three distinct implementations of speech processing and recognition:
+
+1. **Basic Implementation** (`/basic`)
+   - Basic audio recording and processing
+   - Waveform visualization
+   - Audio format conversion
+   - Perfect for learning fundamentals
+
+2. **Simple Speech Recognition** (`/simple_speech_recognition`)
+   - Speech-to-text conversion using AssemblyAI
+   - Multiple language support
+   - Multiple output formats
+   - Speaker detection
+
+3. **Sentiment Analysis** (`/sentiment_analysis`)
+   - YouTube video audio analysis
+   - Speech transcription
+   - Sentiment analysis of transcribed text
+   - Detailed sentiment summaries
 
 ## Project Structure
 
@@ -18,151 +42,64 @@ speech_recognition/
 │   ├── api_secrets.py      # API key configuration
 │   └── README.md           # Advanced implementation documentation
 │
+├── sentiment_analysis/        # YouTube video sentiment analysis
+│   ├── main.ipynb          # Jupyter notebook for analysis
+│   ├── README.md           # Sentiment analysis documentation
+│   ├── data/               # Generated data directory
+│   └── downloads/          # Downloaded audio files
+│
 └── README.md               # This file
-```
-
-## Features
-
-### Basic Implementation
-- Audio recording from microphone
-- Audio file playback
-- Waveform visualization
-- Frequency spectrum analysis
-- Basic audio format conversion
-
-### Advanced Implementation
-- Audio file transcription using AssemblyAI
-- Multiple language support
-- Multiple output formats (TXT and JSON)
-- Speaker detection
-- Automatic punctuation
-- Progress tracking
-
-## Prerequisites
-
-- Python 3.x
-- Required Python packages:
-  - numpy
-  - matplotlib
-  - PyAudio
-  - wave
-  - scipy
-  - requests
-  - assemblyai
-
-## Installation
-
-1. Install the required packages:
-```bash
-pip install numpy matplotlib PyAudio wave scipy requests assemblyai
-```
-
-2. For macOS users, install portaudio:
-```bash
-brew install portaudio
-```
-
-3. For the advanced implementation, create an `api_secrets.py` file in the `simple_speech_recognition` directory:
-```python
-API_KEY_ASSEMBLYAI = "your_api_key_here"
 ```
 
 ## Getting Started
 
-### Basic Implementation
+Each implementation has its own README file with detailed setup and usage instructions. Choose the implementation that best suits your needs:
 
-1. Record audio:
+1. For learning basics: [Basic Implementation](basic/README.md)
+2. For speech-to-text: [Simple Speech Recognition](simple_speech_recognition/README.md)
+3. For sentiment analysis: [Sentiment Analysis](sentiment_analysis/README.md)
+
+## Common Prerequisites
+
+- Python 3.8 or higher
+- FFmpeg (for audio processing)
+- Internet connection (for API-based implementations)
+- AssemblyAI API key (for advanced implementations)
+
+## Installation
+
+1. Clone this repository:
 ```bash
-cd basic
-python record_audio.py
+git clone https://github.com/Tamanna5/speech_recognition.git
+cd speech_recognition
 ```
 
-2. Play recorded audio:
+2. Install common dependencies:
 ```bash
-python play_audio.py recording_20240321_123456.wav
+pip install numpy matplotlib PyAudio wave requests yt-dlp
 ```
 
-3. Visualize audio:
+3. Install FFmpeg:
+- On macOS:
 ```bash
-python visualize_audio.py recording_20240321_123456.wav
+brew install ffmpeg
 ```
-
-### Advanced Implementation
-
-1. Navigate to the advanced implementation:
+- On Ubuntu/Debian:
 ```bash
-cd simple_speech_recognition
+sudo apt-get install ffmpeg
 ```
+- On Windows:
+Download from [FFmpeg website](https://ffmpeg.org/download.html)
 
-2. Run the transcription script:
-```bash
-python main.py
-```
+## Learning Path
 
-3. Follow the prompts to:
-   - Select your audio file
-   - Choose output format
-   - Select language
-   - Process the transcription
-
-## Supported Languages (Advanced Implementation)
-
-- English (en)
-- Spanish (es)
-- French (fr)
-- German (de)
-- Italian (it)
-
-## Output Formats (Advanced Implementation)
-
-1. Text File (.txt)
-   - Transcribed text with proper formatting
-   - Speaker labels for multiple speakers
-
-2. JSON File (.json)
-   - Detailed transcription data
-   - Timestamps
-   - Speaker labels
-   - Confidence scores
-   - Punctuation
-
-## Technical Details
-
-### Audio Parameters (Basic Implementation)
-- Sample Rate: 44100 Hz
-- Channels: 1 (Mono)
-- Bit Depth: 16-bit
-- Format: WAV
-
-### Limitations (Advanced Implementation)
-- Maximum file size: 5MB
-- Supported formats: MP3, WAV, M4A
-- Processing time varies with audio length
-
-## Learning Resources
-
-1. [Python Audio Processing](https://realpython.com/python-audio-processing/)
-2. [PyAudio Documentation](https://people.csail.mit.edu/hubert/pyaudio/)
-3. [AssemblyAI Documentation](https://www.assemblyai.com/docs)
-4. [NumPy Documentation](https://numpy.org/doc/stable/)
-5. [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
-## Troubleshooting
-
-### Basic Implementation
-- Ensure microphone is properly connected
-- Check audio device settings
-- Verify file permissions
-
-### Advanced Implementation
-- Verify API key is correct
-- Check internet connection
-- Ensure audio file format is supported
-- Verify file size is within limits
+1. Start with the basic implementation to understand audio processing fundamentals
+2. Move to simple speech recognition to learn about speech-to-text conversion
+3. Explore sentiment analysis to understand how to analyze speech content
 
 ## Contributing
 
-Feel free to:
+Feel free to contribute to any of the implementations:
 1. Report bugs
 2. Suggest improvements
 3. Add new features
@@ -170,4 +107,14 @@ Feel free to:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+
+- [Tamanna](https://github.com/Tamanna5)
+
+## Acknowledgments
+
+- [AssemblyAI](https://www.assemblyai.com/) for providing the speech-to-text API
+- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/) for audio processing capabilities
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) for YouTube audio downloading
