@@ -1,0 +1,1330 @@
+[
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Hey guys.",
+        "start": 320,
+        "end": 880,
+        "confidence": 0.5902397,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Welcome to my YouTube channel.",
+        "start": 1040,
+        "end": 2560,
+        "confidence": 0.6646463,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "In this video I'm going to make an announcement that I'm going to create a new playlist for my YouTube channel.",
+        "start": 2880,
+        "end": 9280,
+        "confidence": 0.60388005,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay.",
+        "start": 9280,
+        "end": 9840,
+        "confidence": 0.5843516,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And I'm going to call that playlist 100 Days of Machine learning.",
+        "start": 10000,
+        "end": 13280,
+        "confidence": 0.82379556,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay?",
+        "start": 13280,
+        "end": 13920,
+        "confidence": 0.71238595,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So you might be thinking but kya hai.",
+        "start": 14320,
+        "end": 18400,
+        "confidence": 0.7585052,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "So here's the thing over WhatsApp or YouTube videos that they were not able to find end to end machine learning playlist on my channel, okay?",
+        "start": 18960,
+        "end": 32270,
+        "confidence": 0.50252575,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And that is true actually if you go to my channel you would find videos related to machine learning algorithms.",
+        "start": 32270,
+        "end": 37750,
+        "confidence": 0.64809555,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Many machine learning algorithms but a complete end to end playlist, okay.",
+        "start": 37750,
+        "end": 45870,
+        "confidence": 0.571118,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So I thought why not create a end to end machine learning playlist, okay?",
+        "start": 46270,
+        "end": 51710,
+        "confidence": 0.7947286,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So that's the plan.",
+        "start": 52110,
+        "end": 53310,
+        "confidence": 0.7309493,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I'll shoot and upload one video and proper curriculum sort of create based on my experience, my knowledge I think will be more than sufficient to teach you intermediate level machine learning advanced to be honest.",
+        "start": 56430,
+        "end": 72220,
+        "confidence": 0.59849006,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But if you are a beginner or beginners follow Karthi in videos I hope.",
+        "start": 73580,
+        "end": 81980,
+        "confidence": 0.5986937,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Now comes the question like what will be the topics?",
+        "start": 86380,
+        "end": 90380,
+        "confidence": 0.81814533,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll tell you something about myself.",
+        "start": 93180,
+        "end": 94500,
+        "confidence": 0.87720263,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "When I started machine learning, machine learning algorithms, right?",
+        "start": 94500,
+        "end": 100780,
+        "confidence": 0.7872301,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But gradually I realized, then I realized actually machine learning machine learning project end to end machine learning life cycle, product life cycle or to be honest, beginners especially they don't focus much on this thing.",
+        "start": 101100,
+        "end": 130900,
+        "confidence": 0.68681854,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Beginners think algorithms.",
+        "start": 131540,
+        "end": 134100,
+        "confidence": 0.80169505,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So in 100 days I'll start with the basics of machine learning and I'll cover the entire flow of machine learning.",
+        "start": 136670,
+        "end": 146070,
+        "confidence": 0.5618583,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So machine learning project possible problems are faced.",
+        "start": 146070,
+        "end": 151870,
+        "confidence": 0.6751161,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'm going to shoot one video and to be honest 100 days.",
+        "start": 154990,
+        "end": 157630,
+        "confidence": 0.7722074,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So mind you Yahapuram Koi algorithms cover Nahikara we are not going to cover any of the algorithms algorithms playlist already but is playlist 100 days of machine learning technique data pre processing analysis, model selection, feature selection, experience trade off machine learning engineer, machine learning engineers.",
+        "start": 161790,
+        "end": 207090,
+        "confidence": 0.6521835,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So I'm working on the curriculum to be honest, in fact if you have a feedback you can share that with me.",
+        "start": 210370,
+        "end": 223170,
+        "confidence": 0.7546158,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "But I am thinking in 100 days I have to create a resource meaningful machine learning journey.",
+        "start": 224850,
+        "end": 233130,
+        "confidence": 0.5533024,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Third question.",
+        "start": 235370,
+        "end": 235930,
+        "confidence": 0.6201237,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "So to be honest, if you are a beginner then and even if intermediate machine learning even then it could be a great resource for you as a.",
+        "start": 239690,
+        "end": 253530,
+        "confidence": 0.8866152,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "A resource, you know, concrete understanding students, professionals I think and I'll try to be very honest while making these videos I'll try to put all the effort that I can put.",
+        "start": 254240,
+        "end": 279040,
+        "confidence": 0.5306501,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So yeah, this is the announcement that I was planning to make.",
+        "start": 279760,
+        "end": 282960,
+        "confidence": 0.6088384,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Now I'm not going to waste any time.",
+        "start": 283920,
+        "end": 286790,
+        "confidence": 0.55271906,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'm Going to start today only today we are going to cover the first topic.",
+        "start": 286870,
+        "end": 291190,
+        "confidence": 0.72708213,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What is machine learning?",
+        "start": 291990,
+        "end": 293110,
+        "confidence": 0.84676576,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay, I know, but still, let's cover this topic.",
+        "start": 293110,
+        "end": 300110,
+        "confidence": 0.8053114,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What is machine learning?",
+        "start": 300110,
+        "end": 301350,
+        "confidence": 0.84676576,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So let's discuss what is machine learning.",
+        "start": 301750,
+        "end": 303510,
+        "confidence": 0.85662365,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "We'll start with a formal definition.",
+        "start": 304070,
+        "end": 305750,
+        "confidence": 0.8800805,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "According to definition, machine learning is a field of computer science that uses statistical techniques to give computer systems the ability to learn with data with without being explicitly programmed.",
+        "start": 305990,
+        "end": 317600,
+        "confidence": 0.69755566,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So agap simpler words.",
+        "start": 318160,
+        "end": 320560,
+        "confidence": 0.745393,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Machine learning is all about learning from data.",
+        "start": 321760,
+        "end": 324160,
+        "confidence": 0.53639925,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay, so there's a term in this definition called explicit programming.",
+        "start": 324400,
+        "end": 329200,
+        "confidence": 0.8063356,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So explicit programming scenario to handle that scenario you write a code, right?",
+        "start": 329200,
+        "end": 337920,
+        "confidence": 0.8561977,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But in machine learning you don't do that.",
+        "start": 337920,
+        "end": 339680,
+        "confidence": 0.6477306,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What you do is you have got some data.",
+        "start": 339680,
+        "end": 341920,
+        "confidence": 0.82642686,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You have got an algorithm or algorithm patterns.",
+        "start": 342410,
+        "end": 348090,
+        "confidence": 0.83454216,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Input or output.",
+        "start": 348490,
+        "end": 349530,
+        "confidence": 0.74923086,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Input data or output.",
+        "start": 355210,
+        "end": 356730,
+        "confidence": 0.72765106,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You can see conventional programming.",
+        "start": 359850,
+        "end": 361850,
+        "confidence": 0.7493154,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But in machine learning things are different.",
+        "start": 372770,
+        "end": 374530,
+        "confidence": 0.78545123,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What you do is you provide some data whose data may up input program will logic automatically generate machine learning algorithms.",
+        "start": 374690,
+        "end": 387650,
+        "confidence": 0.84822214,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "So the good part is you don't have to write code for each and every condition case automatically machine learning algorithm handle just.",
+        "start": 388530,
+        "end": 398690,
+        "confidence": 0.76945734,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll give you one example.",
+        "start": 398690,
+        "end": 399770,
+        "confidence": 0.73783135,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Let's say program, right?",
+        "start": 399930,
+        "end": 404010,
+        "confidence": 0.8666053,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But machine learning excel file numbers machine learning algorithms train hoga realize karlega pattern the future may agarap though numbers though your chart numbers though machine learning algorithm.",
+        "start": 409930,
+        "end": 434570,
+        "confidence": 0.8145578,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Whereas in a program that you have written explicitly coded.",
+        "start": 437770,
+        "end": 448330,
+        "confidence": 0.797983,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And that is the main difference guys, I hope examples machine learning industry.",
+        "start": 450570,
+        "end": 457680,
+        "confidence": 0.63679117,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Now that we know machine learning, let's also discuss useful machine learning.",
+        "start": 461200,
+        "end": 468480,
+        "confidence": 0.6234006,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Okay, so now let's discuss scenarios may machine learning can be used and it is more useful than native normal software development.",
+        "start": 468880,
+        "end": 477920,
+        "confidence": 0.8338194,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So I'll provide you three scenarios.",
+        "start": 478560,
+        "end": 480480,
+        "confidence": 0.88431895,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And to be honest but important first scenario you cannot write cases for everything.",
+        "start": 480480,
+        "end": 492640,
+        "confidence": 0.61303145,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll give you one scenario.",
+        "start": 495360,
+        "end": 496480,
+        "confidence": 0.7909651,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Let's say you are trying to build a email spam classifier.",
+        "start": 496640,
+        "end": 499920,
+        "confidence": 0.6485719,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "As a software developer, you have to write a program which can classify an email into spam or not spam or obviously information discount word use sale word use awesome word use pictures.",
+        "start": 506480,
+        "end": 530390,
+        "confidence": 0.61571425,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You will create a long list of if else statements.",
+        "start": 534630,
+        "end": 537030,
+        "confidence": 0.8157519,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And that will be your program to identify particular incoming email spam.",
+        "start": 537420,
+        "end": 542860,
+        "confidence": 0.7317425,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Right?",
+        "start": 543500,
+        "end": 543900,
+        "confidence": 0.7360087,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But let's say huge huge as in huge discount huge word use.",
+        "start": 544380,
+        "end": 553820,
+        "confidence": 0.45299488,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So you will label that email to be spam.",
+        "start": 554700,
+        "end": 557260,
+        "confidence": 0.5526236,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Somehow companies advertising companies email client automatically spam.",
+        "start": 558060,
+        "end": 571650,
+        "confidence": 0.77118295,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So what advertising companies can do is they can instead of writing huge, they can write big or massive program is conditioned.",
+        "start": 572530,
+        "end": 581890,
+        "confidence": 0.6972202,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And if a condition change to handle a new scenario.",
+        "start": 583170,
+        "end": 593940,
+        "confidence": 0.84118044,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But again advertising companies or experiment.",
+        "start": 593940,
+        "end": 597540,
+        "confidence": 0.6176437,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So in short, to make sure machine learning since our data logic automatically change.",
+        "start": 598100,
+        "end": 612740,
+        "confidence": 0.75206375,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "And that is the beauty of machine learning that you have to write just one program, just one algorithm.",
+        "start": 613540,
+        "end": 618700,
+        "confidence": 0.8562378,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And everything will be handled by that algorithm.",
+        "start": 618700,
+        "end": 621460,
+        "confidence": 0.85078704,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "One more scenario.",
+        "start": 622320,
+        "end": 623120,
+        "confidence": 0.75728583,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Machine learning useful in comparison to normal traditional software programming.",
+        "start": 623760,
+        "end": 628120,
+        "confidence": 0.65542203,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll give you one example.",
+        "start": 628120,
+        "end": 629280,
+        "confidence": 0.73783135,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Difficult cases because like image classification.",
+        "start": 630240,
+        "end": 638480,
+        "confidence": 0.5962194,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Let's say up dogs, right?",
+        "start": 638640,
+        "end": 644080,
+        "confidence": 0.7777731,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Up dogs.",
+        "start": 644240,
+        "end": 645280,
+        "confidence": 0.5859425,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Dogs different, right?",
+        "start": 656550,
+        "end": 658630,
+        "confidence": 0.8159804,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You have to create a program.",
+        "start": 659990,
+        "end": 661830,
+        "confidence": 0.7476181,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Can you think to incorporate each and every dog breed?",
+        "start": 666950,
+        "end": 673030,
+        "confidence": 0.88882816,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You cannot do so.",
+        "start": 673420,
+        "end": 674380,
+        "confidence": 0.71925926,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Human beings dog identify karna.",
+        "start": 679260,
+        "end": 681340,
+        "confidence": 0.7738224,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "See, that is a dog.",
+        "start": 685340,
+        "end": 686380,
+        "confidence": 0.5453083,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That is not a dog, that is a cat, right?",
+        "start": 686380,
+        "end": 688380,
+        "confidence": 0.6763948,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Software development, native software development.",
+        "start": 695580,
+        "end": 698260,
+        "confidence": 0.69682723,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Use programs.",
+        "start": 698260,
+        "end": 699340,
+        "confidence": 0.7030718,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You will have to use machine learning.",
+        "start": 700060,
+        "end": 702060,
+        "confidence": 0.7848269,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "One more important use case of machine learning is data mining.",
+        "start": 702910,
+        "end": 705870,
+        "confidence": 0.79767305,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So data mining.",
+        "start": 706510,
+        "end": 707310,
+        "confidence": 0.67572945,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll tell you.",
+        "start": 707550,
+        "end": 708270,
+        "confidence": 0.60234517,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Data analysis.",
+        "start": 710430,
+        "end": 711230,
+        "confidence": 0.6964419,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So data analysis is a process patterns, hidden information, right?",
+        "start": 712510,
+        "end": 719070,
+        "confidence": 0.7230226,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "By plotting graphs and all, right?",
+        "start": 719070,
+        "end": 720710,
+        "confidence": 0.859248,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That is data analysis, but information.",
+        "start": 720710,
+        "end": 723870,
+        "confidence": 0.80130816,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I'll give you one scenario.",
+        "start": 728430,
+        "end": 729550,
+        "confidence": 0.7909651,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Machine learning algorithm.",
+        "start": 749750,
+        "end": 750790,
+        "confidence": 0.74705654,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You create a prediction model.",
+        "start": 752630,
+        "end": 754470,
+        "confidence": 0.7751517,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Just say email spam classifier, right?",
+        "start": 754710,
+        "end": 756710,
+        "confidence": 0.52292025,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Machine learning model information.",
+        "start": 759590,
+        "end": 775470,
+        "confidence": 0.7732161,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That thing is known as data mining.",
+        "start": 780110,
+        "end": 781950,
+        "confidence": 0.7498491,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Machine learning.",
+        "start": 789650,
+        "end": 790210,
+        "confidence": 0.6228955,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Or is this for data mining?",
+        "start": 791010,
+        "end": 792450,
+        "confidence": 0.7458036,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So again, data mining.",
+        "start": 792930,
+        "end": 793970,
+        "confidence": 0.55299866,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Machine learning is a very important thing.",
+        "start": 794370,
+        "end": 796770,
+        "confidence": 0.8885234,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Machine learning is so important or Q suddenly Next we will discuss history.",
+        "start": 799890,
+        "end": 812130,
+        "confidence": 0.5141516,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "If we are going to start learning a new technology, we should learn history.",
+        "start": 814850,
+        "end": 819110,
+        "confidence": 0.75943744,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So if you talk about history, personally machine learning history.",
+        "start": 820070,
+        "end": 825190,
+        "confidence": 0.87222767,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "He's a great actor, right?",
+        "start": 831830,
+        "end": 833030,
+        "confidence": 0.9314825,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Just like machine learning.",
+        "start": 833590,
+        "end": 836870,
+        "confidence": 0.70208496,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I saw him playing a very small role.",
+        "start": 846170,
+        "end": 848170,
+        "confidence": 0.7951765,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Just like that machine learning industry.",
+        "start": 849610,
+        "end": 851130,
+        "confidence": 0.5376155,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "But concrete important technology until very recent.",
+        "start": 853930,
+        "end": 861290,
+        "confidence": 0.52021426,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Those are machine learning, machine learning.",
+        "start": 861450,
+        "end": 866650,
+        "confidence": 0.69345355,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Just like Nawaziran Siddiquijo recently that recently OTT platforms audiences content based cinema prefer, right?",
+        "start": 867770,
+        "end": 885100,
+        "confidence": 0.8776598,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Is now one of the premium actors in our country.",
+        "start": 887740,
+        "end": 890220,
+        "confidence": 0.67558706,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Same interesting Chise machine learning, maths researchers.",
+        "start": 890780,
+        "end": 899100,
+        "confidence": 0.59642833,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But machine learning.",
+        "start": 900630,
+        "end": 901430,
+        "confidence": 0.73971456,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Because the problem was machine learning data.",
+        "start": 902790,
+        "end": 907110,
+        "confidence": 0.6242229,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Unfortunately data gather Karna or label was quite tedious.",
+        "start": 909830,
+        "end": 916470,
+        "confidence": 0.8672307,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Second problem was hardware.",
+        "start": 916870,
+        "end": 918350,
+        "confidence": 0.6596252,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Agarap data hardware, machine algorithms.",
+        "start": 918350,
+        "end": 925510,
+        "confidence": 0.82419246,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Those are Daske Baat Internet evolution.",
+        "start": 928460,
+        "end": 931500,
+        "confidence": 0.86216104,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Evolution.",
+        "start": 932380,
+        "end": 933020,
+        "confidence": 0.7401574,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You can see your own life.",
+        "start": 938460,
+        "end": 939660,
+        "confidence": 0.76552445,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Imagine Kitna data daily generate in fact human beings uttnahi data within one year.",
+        "start": 947980,
+        "end": 960860,
+        "confidence": 0.8310354,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So that is the speed at which we are generating data.",
+        "start": 961980,
+        "end": 964860,
+        "confidence": 0.82358503,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Though Ye Kubsara data is actually aiding the growth of machine learning.",
+        "start": 964940,
+        "end": 969020,
+        "confidence": 0.8125849,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Second thing hardware, 12 GBs of RAM, right?",
+        "start": 969580,
+        "end": 977500,
+        "confidence": 0.86751646,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "GPUs pocket research scientist.",
+        "start": 978220,
+        "end": 982540,
+        "confidence": 0.8068932,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Even 128 MB RAM was a big deal, right?",
+        "start": 984460,
+        "end": 987740,
+        "confidence": 0.6891686,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "But we have got good hardware and good algorithms and good data.",
+        "start": 987990,
+        "end": 992630,
+        "confidence": 0.85824186,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Machine learning is enjoying its success.",
+        "start": 993830,
+        "end": 995510,
+        "confidence": 0.89471287,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And to be honest, this curve will go up and up.",
+        "start": 995830,
+        "end": 1000150,
+        "confidence": 0.76570237,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And that is why it's point job speed.",
+        "start": 1000630,
+        "end": 1002870,
+        "confidence": 0.7784202,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay?",
+        "start": 1002870,
+        "end": 1003350,
+        "confidence": 0.71238595,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Jobs point.",
+        "start": 1003910,
+        "end": 1007350,
+        "confidence": 0.70070636,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "When people see jobs.",
+        "start": 1007510,
+        "end": 1009830,
+        "confidence": 0.7823145,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What do you think?",
+        "start": 1015230,
+        "end": 1015790,
+        "confidence": 0.80900395,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Do you think Joe success machine learning salaries.",
+        "start": 1015790,
+        "end": 1020670,
+        "confidence": 0.8624731,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "The answer is no.",
+        "start": 1024270,
+        "end": 1025310,
+        "confidence": 0.50654215,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Pure economics.",
+        "start": 1025950,
+        "end": 1026910,
+        "confidence": 0.6576476,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Guys.",
+        "start": 1026910,
+        "end": 1027310,
+        "confidence": 0.6658819,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But companies because companies may competition as a company Mujebi Java Chayed in my software.",
+        "start": 1031790,
+        "end": 1042240,
+        "confidence": 0.80565983,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So I'm realizing companies fight obviously talent, salary, simple economics.",
+        "start": 1047440,
+        "end": 1060240,
+        "confidence": 0.70841044,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But up machine learning will be saying AG salary.",
+        "start": 1060480,
+        "end": 1062960,
+        "confidence": 0.7679258,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "By the way colleges or Abhibi engineers time companies they go to a college, they find only 5% or 10% students.",
+        "start": 1062960,
+        "end": 1079500,
+        "confidence": 0.6203402,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "They know machine learning, right?",
+        "start": 1079500,
+        "end": 1084140,
+        "confidence": 0.7931441,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But salaries kind of overall impact powerful technology or or once salaries normalize because up companies or that is why they won't pay that much of salary which they are currently giving to graduates or you know, experienced candidates.",
+        "start": 1084140,
+        "end": 1136950,
+        "confidence": 0.7262348,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "The good part is machine learning technology.",
+        "start": 1137590,
+        "end": 1144230,
+        "confidence": 0.8882523,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "The good part is we are on the rising curve or time or we will enjoy the same success that machine learning is enjoying currently.",
+        "start": 1148150,
+        "end": 1162500,
+        "confidence": 0.91442615,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay, so.",
+        "start": 1162580,
+        "end": 1163740,
+        "confidence": 0.66529524,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Yeah, I know.",
+        "start": 1163740,
+        "end": 1164420,
+        "confidence": 0.49913955,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But yeah.",
+        "start": 1165220,
+        "end": 1165820,
+        "confidence": 0.6503888,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "This was the introduction that I wanted to take share with you.",
+        "start": 1165820,
+        "end": 1170740,
+        "confidence": 0.6617997,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "In the next video, we'll cover one more important topic.",
+        "start": 1171060,
+        "end": 1174100,
+        "confidence": 0.5164821,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Beginners.",
+        "start": 1174820,
+        "end": 1175460,
+        "confidence": 0.7857495,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What is the difference between AI ML and TL Deep learning?",
+        "start": 1177780,
+        "end": 1182400,
+        "confidence": 0.8829452,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Next which is tomorrow, actually Monday.",
+        "start": 1183040,
+        "end": 1187680,
+        "confidence": 0.85919434,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Okay.",
+        "start": 1187840,
+        "end": 1188320,
+        "confidence": 0.5843516,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So yeah, guys, that's it for the video.",
+        "start": 1188560,
+        "end": 1190880,
+        "confidence": 0.7138993,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "I hope you liked it.",
+        "start": 1190880,
+        "end": 1192160,
+        "confidence": 0.93711424,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "If you're planning to follow this entire series 100 Days of ML, please consider subscribing.",
+        "start": 1192560,
+        "end": 1197840,
+        "confidence": 0.61960334,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "Thanks for watching.",
+        "start": 1198960,
+        "end": 1199840,
+        "confidence": 0.95293343,
+        "speaker": null
+    }
+]
